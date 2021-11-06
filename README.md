@@ -12,6 +12,10 @@ https://github.com/neoclide/coc.nvim
 
 https://github.com/vim-airline/vim-airline
 
+## Vim icons
+
+https://github.com/ryanoasis/vim-devicons
+
 ## Fonts
 
 https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.otf
