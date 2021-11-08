@@ -4,9 +4,9 @@
 
 https://github.com/preservim/nerdtree
 
-## Coc - Auto Complete
+## Tabnine - Auto Complete
 
-https://github.com/neoclide/coc.nvim
+https://github.com/tabnine/YouCompleteMe
 
 ## Vim-Airline
 
@@ -23,3 +23,6 @@ https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DroidSansMono/
 ## Vim Start
 
 https://github.com/mhinz/vim-startify
+
+## Tilix
+https://fedora.pkgs.org/33/fedora-x86_64/tilix-1.9.3-6.fc33.x86_64.rpm.html
