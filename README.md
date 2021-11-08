@@ -4,9 +4,9 @@
 
 https://github.com/preservim/nerdtree
 
-## Tabnine - Auto Complete
+## Coc - Auto Complete
 
-https://github.com/tabnine/YouCompleteMe
+https://github.com/neoclide/coc.nvim
 
 ## Vim-Airline
 
